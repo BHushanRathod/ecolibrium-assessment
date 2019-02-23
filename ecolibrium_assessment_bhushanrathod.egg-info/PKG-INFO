@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: ecolibrium-assessment-bhushanrathod
+Version: 0.0.1
+Summary: There is a configuration where users can setup the time when they want to perform a particular task
+Home-page: https://github.com/BHushanRathod/ecolibrium-assessment
+Author: BHushan Rathod
+Author-email: abhushanprathod@example.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

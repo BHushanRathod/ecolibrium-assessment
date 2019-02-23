@@ -1,0 +1,20 @@
+[
+   {
+      "model":"task_based_app.countrylist",
+      "pk":1,
+      "fields":{
+         "country_name":"India",
+         "create_at":"2019-02-22T16:52:48.712Z",
+         "is_active":true
+      }
+   },
+   {
+      "model":"task_based_app.countrylist",
+      "pk":2,
+      "fields":{
+         "country_name":"USA",
+         "create_at":"2019-02-22T16:53:30.403Z",
+         "is_active":true
+      }
+   }
+]

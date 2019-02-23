@@ -1,0 +1,29 @@
+[
+   {
+      "model":"task_based_app.tasktype",
+      "pk":1,
+      "fields":{
+         "task_name":"Email",
+         "create_at":"2019-02-22T16:54:49.925Z",
+         "is_active":true
+      }
+   },
+   {
+      "model":"task_based_app.tasktype",
+      "pk":2,
+      "fields":{
+         "task_name":"Call",
+         "create_at":"2019-02-22T16:54:53.093Z",
+         "is_active":true
+      }
+   },
+   {
+      "model":"task_based_app.tasktype",
+      "pk":3,
+      "fields":{
+         "task_name":"SMS",
+         "create_at":"2019-02-22T16:54:55.720Z",
+         "is_active":true
+      }
+   }
+]
